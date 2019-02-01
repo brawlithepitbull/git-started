@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<meta name="author" content="Andy Dyck">
+		<meta name="description" content="some bullshit about html, git, github, and sublime text">
+
+		<title> Mad Drummer </title>
+
+		<link rel="stylesheet" href="css/main.css">
+
+	</head>
+	<body>
+		<h1>Mad Drummer</h1>
+		<img src="/img/demondrummer.jpg" alt="Mad Drummer" height="184" width="184">
+		<p>This is the Mad Drummer. He drums in a way that looks crazy, in a way that makes drumming look more complex and interesting than it is.  Some say it is merely circus drumming, but I dare them to attempt to walk in the Mad Drummer's shoes and still make such a claim.</p>
+		<p><a href="https://http://www.maddrummerinc.com">Mad Drummer</a>
+	</body>
+</html>
